@@ -1,6 +1,7 @@
-
 ![用例图1][1]
 [1]:http://fmn.rrimg.com/fmn063/20130530/2135/original_Ui7q_2910000018dd118f.jpg
+![活动图2][2]
+[2]:http://fmn.rrimg.com/fmn061/20130530/2135/original_RbI7_5d83000018e61190.jpg
 校园商品交易改造项目Web建模
 简介
 应用领域
